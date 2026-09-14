@@ -889,6 +889,7 @@
 
 	/* esd config */
 	qcom,mdss-dsi-panel-status-check-mode = "reg_read";
+	qcom,esd-check-enabled;
 	qcom,mdss-dsi-panel-status-command = [
 		06 00 00 00 00 00 01 0A
 	];
