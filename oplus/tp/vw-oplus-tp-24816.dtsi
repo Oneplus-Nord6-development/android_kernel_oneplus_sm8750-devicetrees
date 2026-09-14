@@ -38,7 +38,7 @@
 	status = "ok";
 
 	synaptics_tcm_hbp@0{
-		status = "disabled";
+		status = "okay";
 		compatible = "synaptics,tcm-spi-hbp";
 		reg = <0x0>;
 		chip-name = "S3910";
